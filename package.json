@@ -4,5 +4,7 @@
   "description": "node js socket message",
   "main": "index.js",
   "author": "baryl348",
-  "license": "MIT"
+  "license": "MIT",
+  "private": "true",
+  "module": "next"
 }
